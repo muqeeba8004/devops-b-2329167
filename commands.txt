@@ -1,0 +1,6 @@
+mkdir site
+mkdir evidence
+git --version
+docker --version
+minikube status
+kubectl version --client
